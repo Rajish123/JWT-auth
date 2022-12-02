@@ -1,0 +1,398 @@
+1669999619280	geckodriver	INFO	Listening on 127.0.0.1:44555
+1669999619804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF3zE5t"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669999624920	Marionette	INFO	Marionette enabled
+1669999624927	Marionette	INFO	Listening on port 35579
+Read port: 35579
+WebDriver BiDi listening on ws://127.0.0.1:41279
+1669999625283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF3zE5t/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41279/devtools/browser/8b830fb9-a27b-493e-8aca-006e9938b691
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669999636250	Marionette	INFO	Stopped listening on port 35579
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1669999715142	geckodriver	INFO	Listening on 127.0.0.1:34899
+1669999715154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRW2YmG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669999719340	Marionette	INFO	Marionette enabled
+1669999719347	Marionette	INFO	Listening on port 39951
+Read port: 39951
+WebDriver BiDi listening on ws://127.0.0.1:60561
+1669999719520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRW2YmG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60561/devtools/browser/3ae0c426-1472-4ea5-89a5-ea3373bc3d27
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669999729243	Marionette	INFO	Stopped listening on port 39951
+1669999857164	geckodriver	INFO	Listening on 127.0.0.1:32959
+1669999857720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexKhifO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669999861973	Marionette	INFO	Marionette enabled
+1669999861981	Marionette	INFO	Listening on port 42057
+Read port: 42057
+WebDriver BiDi listening on ws://127.0.0.1:55263
+1669999862384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexKhifO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55263/devtools/browser/dc3a5d3d-8f3d-4399-98dd-082e23979446
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669999872380	Marionette	INFO	Stopped listening on port 42057
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1670000113245	geckodriver	INFO	Listening on 127.0.0.1:34385
+1670000113787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGWGmjF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670000117972	Marionette	INFO	Marionette enabled
+1670000117980	Marionette	INFO	Listening on port 45687
+Read port: 45687
+WebDriver BiDi listening on ws://127.0.0.1:46377
+1670000118183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGWGmjF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46377/devtools/browser/a5ee29e3-ec8d-45d8-87f6-c23463e301ab
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670000198339	geckodriver	INFO	Listening on 127.0.0.1:49237
+1670000198855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecznKUT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670000203186	Marionette	INFO	Marionette enabled
+1670000203193	Marionette	INFO	Listening on port 40859
+Read port: 40859
+WebDriver BiDi listening on ws://127.0.0.1:60493
+1670000203360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecznKUT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60493/devtools/browser/d48a2e18-2014-428c-8426-c909c87f4984
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.11/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670000215004	Marionette	INFO	Stopped listening on port 40859
+1670000249731	geckodriver	INFO	Listening on 127.0.0.1:38245
+1670000250258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepKlKsK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670000255117	Marionette	INFO	Marionette enabled
+1670000255123	Marionette	INFO	Listening on port 45787
+Read port: 45787
+WebDriver BiDi listening on ws://127.0.0.1:51893
+1670000255524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepKlKsK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51893/devtools/browser/5db65a26-161e-4d5c-9f3f-43edf413fc03
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670000286607	Marionette	INFO	Stopped listening on port 45787
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670000292312	Marionette	INFO	Stopped listening on port 45687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670000342292	geckodriver	INFO	Listening on 127.0.0.1:35893
+1670000342824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5sGggZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670000346412	Marionette	INFO	Marionette enabled
+1670000346417	Marionette	INFO	Listening on port 33937
+Read port: 33937
+WebDriver BiDi listening on ws://127.0.0.1:42541
+1670000346657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5sGggZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42541/devtools/browser/6bdba089-ef32-48a9-97cd-e598f57bd958
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670000492976	geckodriver	INFO	Listening on 127.0.0.1:58291
+1670000492984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFrOwPj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670000496719	Marionette	INFO	Marionette enabled
+1670000496727	Marionette	INFO	Listening on port 45375
+Read port: 45375
+WebDriver BiDi listening on ws://127.0.0.1:57363
+1670000497082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFrOwPj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57363/devtools/browser/97971fd0-a192-46a8-9f69-8f2c76413b65
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670000514154	Marionette	INFO	Stopped listening on port 45375
+1670000658744	geckodriver	INFO	Listening on 127.0.0.1:37203
+1670000658753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecJ9KBB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670000662485	Marionette	INFO	Marionette enabled
+1670000662492	Marionette	INFO	Listening on port 45853
+Read port: 45853
+WebDriver BiDi listening on ws://127.0.0.1:39883
+1670000662668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecJ9KBB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39883/devtools/browser/648a1888-edf6-4e20-9914-8306e3a0f88a
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670000674314	Marionette	INFO	Stopped listening on port 45853
+1670000739837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3689 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670000809899	geckodriver	INFO	Listening on 127.0.0.1:46417
+1670000809905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesSDLPJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670000813344	Marionette	INFO	Marionette enabled
+1670000813348	Marionette	INFO	Listening on port 34875
+Read port: 34875
+WebDriver BiDi listening on ws://127.0.0.1:55327
+1670000813522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesSDLPJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55327/devtools/browser/7881c145-9d21-4430-8b97-471e2e8e2cc1
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670000825301	Marionette	INFO	Stopped listening on port 34875
+1670000960763	geckodriver	INFO	Listening on 127.0.0.1:47591
+1670000960771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea7JOJr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670000964234	Marionette	INFO	Marionette enabled
+1670000964241	Marionette	INFO	Listening on port 38253
+Read port: 38253
+WebDriver BiDi listening on ws://127.0.0.1:53963
+1670000964586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea7JOJr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53963/devtools/browser/ddd51c12-86ce-44bd-87bd-f292846105fd
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670000976051	Marionette	INFO	Stopped listening on port 38253
+1670001015044	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1670001081688	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670001082759	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670001085200	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4215 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5101 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1300 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670001230284	geckodriver	INFO	Listening on 127.0.0.1:33859
+1670001230291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBLsNhq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670001233781	Marionette	INFO	Marionette enabled
+1670001233788	Marionette	INFO	Listening on port 41387
+Read port: 41387
+WebDriver BiDi listening on ws://127.0.0.1:37067
+1670001233959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBLsNhq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37067/devtools/browser/8d60e14f-3780-4c59-93d6-bde89fd7c6bf
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670001246336	Marionette	INFO	Stopped listening on port 41387
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1670001304067	Marionette	INFO	Stopped listening on port 33937
+1670001385896	geckodriver	INFO	Listening on 127.0.0.1:33131
+1670001386471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemZDPH9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670001390802	Marionette	INFO	Marionette enabled
+1670001390808	Marionette	INFO	Listening on port 40701
+Read port: 40701
+WebDriver BiDi listening on ws://127.0.0.1:56673
+1670001390994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemZDPH9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56673/devtools/browser/41317c42-1690-4527-8b45-fca76c8acc18
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670001403635	Marionette	INFO	Stopped listening on port 40701
+1670002011496	geckodriver	INFO	Listening on 127.0.0.1:53433
+1670002011504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMPdyxW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670002015053	Marionette	INFO	Marionette enabled
+1670002015059	Marionette	INFO	Listening on port 36319
+Read port: 36319
+WebDriver BiDi listening on ws://127.0.0.1:54123
+1670002015379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMPdyxW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54123/devtools/browser/8968069b-1069-4c04-acf7-64ad56186c63
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670002042738	Marionette	INFO	Stopped listening on port 36319
+1670002607467	geckodriver	INFO	Listening on 127.0.0.1:60755
+1670002607474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHzWCOi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670002610878	Marionette	INFO	Marionette enabled
+1670002610883	Marionette	INFO	Listening on port 40471
+Read port: 40471
+WebDriver BiDi listening on ws://127.0.0.1:60493
+1670002611052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHzWCOi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60493/devtools/browser/4045f635-f126-49a8-b02e-71738647803c
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670002634694	Marionette	INFO	Stopped listening on port 40471
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1670002722042	geckodriver	INFO	Listening on 127.0.0.1:46335
+1670002722562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5WyU1u"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670002726150	Marionette	INFO	Marionette enabled
+1670002726156	Marionette	INFO	Listening on port 37135
+Read port: 37135
+WebDriver BiDi listening on ws://127.0.0.1:42287
+1670002726360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5WyU1u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42287/devtools/browser/d47ad03a-6b2f-47d8-b6a2-5e95a8afb4ca
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.11/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670002753270	Marionette	INFO	Stopped listening on port 37135
+1670002960187	geckodriver	INFO	Listening on 127.0.0.1:37893
+1670002960722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ5777R"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670002965438	Marionette	INFO	Marionette enabled
+1670002965445	Marionette	INFO	Listening on port 39953
+Read port: 39953
+WebDriver BiDi listening on ws://127.0.0.1:32915
+1670002965704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ5777R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32915/devtools/browser/f3ba4c5a-39aa-4b3a-860a-47315cf571d5
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670002991988	Marionette	INFO	Stopped listening on port 39953
+1670003219961	geckodriver	INFO	Listening on 127.0.0.1:60851
+1670003219970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileszO2T3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670003223421	Marionette	INFO	Marionette enabled
+1670003223428	Marionette	INFO	Listening on port 36083
+Read port: 36083
+WebDriver BiDi listening on ws://127.0.0.1:51203
+1670003223557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileszO2T3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51203/devtools/browser/19fb4675-15dc-4edf-a5ed-68d1af212342
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670003240403	Marionette	INFO	Stopped listening on port 36083
+1670003386555	geckodriver	INFO	Listening on 127.0.0.1:41369
+1670003386561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQCDWtp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670003389760	Marionette	INFO	Marionette enabled
+1670003389764	Marionette	INFO	Listening on port 45211
+Read port: 45211
+WebDriver BiDi listening on ws://127.0.0.1:40357
+1670003389935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQCDWtp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40357/devtools/browser/fc43f8df-c495-455a-9808-2ecb4e26ae03
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670003407234	Marionette	INFO	Stopped listening on port 45211
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1670004218848	geckodriver	INFO	Listening on 127.0.0.1:52503
+1670004219359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileihTnc8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670004222809	Marionette	INFO	Marionette enabled
+1670004222814	Marionette	INFO	Listening on port 41655
+Read port: 41655
+WebDriver BiDi listening on ws://127.0.0.1:43891
+1670004222968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileihTnc8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43891/devtools/browser/b2596910-f40d-4f35-892e-251ade67924c
+JavaScript warning: https://laz-g-cdn.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 6: WebGL context was lost.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://laz-g-cdn.alicdn.com/AWSC/et/1.62.7/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://aeu.alicdn.com/AWSC/uab/1.140.0/collina.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670004242550	Marionette	INFO	Stopped listening on port 41655
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
